@@ -1,0 +1,4 @@
+﻿  TableObject.cpp
+C:\Users\Sebbedelius\Desktop\Projekt 3D\Projektet\GlobalVaribles.h(13,16): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sebbedelius\Desktop\Projekt 3D\Projektet\CameraClass.h(13,34): warning C4305:  'initializing': truncation from 'double' to 'float'
+  Demo.vcxproj -> C:\Users\Sebbedelius\Desktop\Projekt 3D\Projektet\Debug\Demo.exe
